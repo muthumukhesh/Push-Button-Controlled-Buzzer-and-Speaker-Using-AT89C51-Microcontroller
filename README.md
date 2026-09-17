@@ -133,6 +133,7 @@ void main(void)
 | Released | LOW | LOW | OFF |
 | Pressed | HIGH | HIGH | ON |
 
+
 ## Applications
 
 - Security alarm systems
